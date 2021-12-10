@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShopBridge/static/css/main.b4855637.chunk.css",
+    "main.js": "/ShopBridge/static/js/main.ce4306bb.chunk.js",
+    "main.js.map": "/ShopBridge/static/js/main.ce4306bb.chunk.js.map",
+    "runtime-main.js": "/ShopBridge/static/js/runtime-main.1dafb2d9.js",
+    "runtime-main.js.map": "/ShopBridge/static/js/runtime-main.1dafb2d9.js.map",
+    "static/js/2.be2981db.chunk.js": "/ShopBridge/static/js/2.be2981db.chunk.js",
+    "static/js/2.be2981db.chunk.js.map": "/ShopBridge/static/js/2.be2981db.chunk.js.map",
+    "static/js/3.74dd5c95.chunk.js": "/ShopBridge/static/js/3.74dd5c95.chunk.js",
+    "static/js/3.74dd5c95.chunk.js.map": "/ShopBridge/static/js/3.74dd5c95.chunk.js.map",
+    "index.html": "/ShopBridge/index.html",
+    "static/css/main.b4855637.chunk.css.map": "/ShopBridge/static/css/main.b4855637.chunk.css.map",
+    "static/js/2.be2981db.chunk.js.LICENSE.txt": "/ShopBridge/static/js/2.be2981db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dafb2d9.js",
+    "static/js/2.be2981db.chunk.js",
+    "static/css/main.b4855637.chunk.css",
+    "static/js/main.ce4306bb.chunk.js"
+  ]
+}
