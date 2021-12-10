@@ -1,0 +1,9 @@
+.item_title {
+  color: black;
+}
+
+.item_err {
+  color: red;
+  margin-left: 10px !important;
+  padding-bottom: 10px;
+}
